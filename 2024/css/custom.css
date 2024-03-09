@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 a, a:link, a:hover, a:visited, a:active {
-  color: #990000;
+  color: hotpink;
 }
 
 b, strong {
@@ -57,12 +57,6 @@ b, strong {
 
 .important {
   font-size: 1.1rem;
-}
-
-figure {
-  width: 11rem;
-  height: 11rem;
-  overflow: hidden;
 }
 
 .caption {
@@ -149,4 +143,11 @@ ul li > span {
 
 ul, ol, p {
   text-align: left;
+}
+
+
+headshot {
+  width: 11rem;
+  height: 11rem;
+  overflow: hidden;
 }
